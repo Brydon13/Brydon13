@@ -1,5 +1,5 @@
 ### Hi there 👋
-testestsetse
+My Name is Brydon Herauf and I am a student at the Unversity of Regina studying Software Engineering.
 
 <!--
 **Brydon13/Brydon13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
